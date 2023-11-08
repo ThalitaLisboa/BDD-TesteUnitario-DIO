@@ -1,0 +1,13 @@
+C:\Users\Thalita\source\repos\BDD_TesteUnitario\bin\Debug\netcoreapp2.1\BDD_TesteUnitario.deps.json
+C:\Users\Thalita\source\repos\BDD_TesteUnitario\bin\Debug\netcoreapp2.1\BDD_TesteUnitario.runtimeconfig.json
+C:\Users\Thalita\source\repos\BDD_TesteUnitario\bin\Debug\netcoreapp2.1\BDD_TesteUnitario.runtimeconfig.dev.json
+C:\Users\Thalita\source\repos\BDD_TesteUnitario\bin\Debug\netcoreapp2.1\BDD_TesteUnitario.dll
+C:\Users\Thalita\source\repos\BDD_TesteUnitario\bin\Debug\netcoreapp2.1\BDD_TesteUnitario.pdb
+C:\Users\Thalita\source\repos\BDD_TesteUnitario\obj\Debug\netcoreapp2.1\BDD_TesteUnitario.csproj.AssemblyReference.cache
+C:\Users\Thalita\source\repos\BDD_TesteUnitario\obj\Debug\netcoreapp2.1\BDD_TesteUnitario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thalita\source\repos\BDD_TesteUnitario\obj\Debug\netcoreapp2.1\BDD_TesteUnitario.AssemblyInfoInputs.cache
+C:\Users\Thalita\source\repos\BDD_TesteUnitario\obj\Debug\netcoreapp2.1\BDD_TesteUnitario.AssemblyInfo.cs
+C:\Users\Thalita\source\repos\BDD_TesteUnitario\obj\Debug\netcoreapp2.1\BDD_TesteUnitario.csproj.CoreCompileInputs.cache
+C:\Users\Thalita\source\repos\BDD_TesteUnitario\obj\Debug\netcoreapp2.1\BDD_TesteUnitario.dll
+C:\Users\Thalita\source\repos\BDD_TesteUnitario\obj\Debug\netcoreapp2.1\BDD_TesteUnitario.pdb
+C:\Users\Thalita\source\repos\BDD_TesteUnitario\obj\Debug\netcoreapp2.1\BDD_TesteUnitario.genruntimeconfig.cache
